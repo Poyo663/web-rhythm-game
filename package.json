@@ -1,0 +1,16 @@
+{
+  "name": "web-rhythm-game",
+  "version": "1.0.0",
+  "description": "Just me trying to make a fullstack project, where the frotend is the game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./start.sh",
+    "start-script": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

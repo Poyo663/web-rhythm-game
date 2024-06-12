@@ -1,0 +1,15 @@
+.note-slider {
+  display: inline-block;
+  position: relative;
+  width: 5rem;
+  aspect-ratio: 0.2;
+  border: 1px solid white;
+}
+
+.delimiter {
+  position: absolute;
+  width: 100%;
+  top: 85%;
+  height: 1rem;
+  border: 1px solid white;
+}
